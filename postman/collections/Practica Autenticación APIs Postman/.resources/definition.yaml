@@ -1,0 +1,6 @@
+$kind: collection
+name: Practica Autenticación APIs Postman
+description: ""
+variables:
+  - key: auth_secret_18i1
+    secret: true

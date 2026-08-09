@@ -1,0 +1,4 @@
+$kind: http-request
+url: "https://bookstore.demoqa.com/BookStore/v1/Books "
+method: GET
+order: 2000

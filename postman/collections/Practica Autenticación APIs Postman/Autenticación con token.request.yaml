@@ -1,0 +1,8 @@
+$kind: http-request
+url: https://httpbin.org/bearer
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: foo
+order: 2000

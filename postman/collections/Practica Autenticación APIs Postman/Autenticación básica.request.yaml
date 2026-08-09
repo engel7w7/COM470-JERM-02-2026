@@ -1,0 +1,9 @@
+$kind: http-request
+url: https://httpbin.org/basic-auth/user/passwd
+method: GET
+auth:
+  type: basic
+  credentials:
+    username: user
+    password: passwd
+order: 1000

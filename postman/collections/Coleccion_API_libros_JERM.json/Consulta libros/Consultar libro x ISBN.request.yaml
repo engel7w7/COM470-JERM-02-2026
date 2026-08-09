@@ -1,0 +1,6 @@
+$kind: http-request
+url: https://bookstore.demoqa.com/BookStore/v1/Book?ISBN=9781449325862
+method: GET
+queryParams:
+  ISBN: "9781449325862"
+order: 1000

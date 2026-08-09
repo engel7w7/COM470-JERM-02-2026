@@ -1,0 +1,11 @@
+workspace:
+  id: c18684c1-98c7-4d45-92a5-f7cf96b55c30
+localResources:
+  collections:
+    - ../Coleccion_API_libros_JERM.json
+cloudResources:
+  collections:
+    ../postman/collections/Colección API Libros favoritos: 48260403-4b441180-e487-4abb-a85c-63b9b1e0d8d7
+    ../postman/collections/Coleccion_API_libros_JERM.json: 48260403-5a267f92-35fb-434c-a7f1-4264ac05c146
+    ../Coleccion_API_libros_JERM.json: 48260403-5a267f92-35fb-434c-a7f1-4264ac05c146
+    ../postman/collections/Practica Autenticación APIs Postman: 48260403-474fc3d6-e0d5-4269-9a64-32dbe713e4b9
